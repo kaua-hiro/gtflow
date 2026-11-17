@@ -1,0 +1,1 @@
+Arquivo de teste para simular o desenvolvimento de uma feature no GitFlow.
